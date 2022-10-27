@@ -105,7 +105,7 @@ def main():
 #declaration of global variables
     chosen_ideal=[]
     sorted_data=[]
-    #train_data =0
+    
     
 # calculating the maximum and minimum of the deviation square
     cursor.execute('SELECT * from train_data')
