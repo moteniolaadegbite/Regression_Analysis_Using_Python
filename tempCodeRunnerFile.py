@@ -1,0 +1,1 @@
+    print(minimum_dev)
